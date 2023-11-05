@@ -1,2 +1,2 @@
 # tudu
-it is my react learning tudu app.
+it is my react learning todo app.
